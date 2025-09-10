@@ -72,7 +72,7 @@ We use the **IMDB Movie Reviews dataset** (`IMDB Dataset.csv`).
 ---
 
 ## 🔹 Implementation (Jupyter Notebook)
-See [word2vec_imdb.ipynb](word2vec_imdb.ipynb) for full code.  
+See [word2vec_imdb.py](word2vec_imdb.py) for full code.  
 
 ### Steps:
 1. Install dependencies  
