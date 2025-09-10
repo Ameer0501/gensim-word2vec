@@ -94,13 +94,28 @@ model.wv.most_similar("fantasy")
 
 model.wv.similarity("bottle", "lion")
 # 0.1388
+```
+## 🔹 Key Takeaways
 
-🔹 Conclusion
+✅ Bag of Words (BoW)
 
-BoW is simple but lacks meaning.
+Simple to implement
 
-Word2Vec captures semantic relationships between words.
+❌ Lacks semantic meaning
 
-CBOW vs Skip-gram → choose depending on dataset size.
+✅ Word2Vec
 
-Gensim makes training embeddings easy and scalable.
+Captures semantic relationships (e.g., good ≈ great, bad ≈ awful)
+
+⚡ CBOW
+
+Faster, works well on large datasets
+
+🔍 Skip-gram
+
+Slower, but better for rare words & small datasets
+
+🛠 Tools
+
+Gensim
+ makes Word2Vec training easy & scalable
