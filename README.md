@@ -1,5 +1,8 @@
 # Word2Vec Implementation for Text Similarity
-
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![Gensim](https://img.shields.io/badge/Gensim-Word2Vec-green.svg)](https://radimrehurek.com/gensim/)
+[![Stars](https://img.shields.io/github/stars/Ameer0501/gensim-word2vec.svg?style=social)](https://github.com/Ameer0501/gensim-word2vec)
 # 🎬 Word2Vec on IMDB Movie Reviews
 
 This project demonstrates how to train **Word2Vec embeddings** using the **IMDB Movie Reviews dataset**.  
